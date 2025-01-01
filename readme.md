@@ -1,1 +1,1 @@
-Just created to check.. 
+Adding Index.js, style.css & script.js
